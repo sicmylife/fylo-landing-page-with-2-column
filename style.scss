@@ -333,10 +333,12 @@ form{
   }
 }
 
-@media (min-width: 998px) {
+@media (min-width: 1080px) {
   .container {
     background-color: $LightGrayishBlue;
-    padding-top: 50px;
+    // padding: 50px;
+    // width: 1440px;
+    margin: 0% auto;
 
     .navbar {
       display: flex;
@@ -532,6 +534,7 @@ form{
     background-color: $DesaturatedBlue;
     color: $LightGrayishBlue;
     // margin: 0 auto;
+    // width: 1700px;
 
     .section3-full {
       display: flex;
@@ -604,7 +607,7 @@ form{
 
   .section4 {
     .inner-section4 {
-      width: 1440px;
+      width: 1300px;
       margin: 0 auto;
 
       .flex-footer {

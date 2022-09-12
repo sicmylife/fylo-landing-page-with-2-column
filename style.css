@@ -376,10 +376,10 @@ h2 {
   color: white;
 }
 
-@media (min-width: 998px) {
+@media (min-width: 1080px) {
   .container {
     background-color: #f6f6fe;
-    padding-top: 50px;
+    margin: 0% auto;
   }
   .container .navbar {
     display: -webkit-box;
@@ -648,7 +648,7 @@ h2 {
     background-color: #95339e;
   }
   .section4 .inner-section4 {
-    width: 1440px;
+    width: 1300px;
     margin: 0 auto;
   }
   .section4 .inner-section4 .flex-footer {
